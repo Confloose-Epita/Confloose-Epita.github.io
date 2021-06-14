@@ -1,0 +1,52 @@
+body {
+}
+
+h1{
+    text-align: center;
+}
+
+.listlink {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #7B969D;
+}
+
+li {
+    float: left;
+}
+
+.clicked{
+    display: block;
+    color: Black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.clicked:hover{
+    display: block;
+    color: Black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    background-color: #A2C6CF;
+}
+
+.logo{
+    width: 28px;
+}
+
+.profilePicture{
+    width: 50px;
+}
+
+.presentation{
+    list-style-type: none;
+    float: left;
+    text-align: center;
+    margin: 0;
+    padding: 14px 50px;
+}
+
